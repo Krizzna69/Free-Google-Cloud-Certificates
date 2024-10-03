@@ -1,0 +1,71 @@
+Google Cloud Skill Boost - FREE!
+--------------------------------
+
+Gogle Cloud Platform:
+
+- Course
+
+Site Reliability Engineering: Measuring and Managing Reliability -> https://www.cloudskillsboost.google/course_templates/59
+
+Developing a Google SRE Culture -> https://www.cloudskillsboost.google/course_templates/95
+
+Google Cloud Fundamentals: Core Infrastructure -> https://www.cloudskillsboost.google/course_templates/161
+
+Getting Started with Google Kubernetes Engine -> https://www.cloudskillsboost.google/course_templates/113
+
+Serverless Data Processing with Dataflow: Operations -> https://www.cloudskillsboost.google/course_templates/367
+
+Preparing for the Professional Cloud Network Engineer Journey -> https://www.cloudskillsboost.google/course_templates/383
+
+Introduction to Cloud Identity -> https://www.cloudskillsboost.google/course_templates/44
+
+Managing Change when Moving to Google Cloud -> https://www.cloudskillsboost.google/course_templates/97
+
+Business Transformation with Google Cloud -> https://www.cloudskillsboost.google/course_templates/62
+
+The Modern Data Platform and LookML -> https://www.cloudskillsboost.google/course_templates/226
+
+Analyzing and Visualizing Data in Looker -> https://www.cloudskillsboost.google/course_templates/323
+
+Developing Data Models with LookML -> https://www.cloudskillsboost.google/course_templates/327
+
+Building No-Code Apps with AppSheet: Foundations -> https://www.cloudskillsboost.google/course_templates/336
+
+
+- Learning Path
+
+Cloud Digital Leader Learning Path -> https://www.cloudskillsboost.google/paths/9
+
+
+===
+
+
+Google Suites:
+
+Google Docs -> https://www.cloudskillsboost.google/course_templates/195
+
+Google Slides -> https://www.cloudskillsboost.google/course_templates/197
+
+Google Drive -> https://www.cloudskillsboost.google/course_templates/196
+
+Gmail -> https://www.cloudskillsboost.google/course_templates/200
+
+Google Calendar -> https://www.cloudskillsboost.google/course_templates/201
+
+Google Sheets - Advanced Topics -> https://www.cloudskillsboost.google/course_templates/293
+
+
+===
+
+
+Google Workspaces:
+
+Introduction to Google Workspace Administration -> https://www.cloudskillsboost.google/course_templates/90
+
+Managing Google Workspace -> https://www.cloudskillsboost.google/course_templates/92
+
+Planning for your Google Workspace Deployment -> https://www.cloudskillsboost.google/course_templates/93
+
+Google Workspace Mail Management -> https://www.cloudskillsboost.google/course_templates/91
+
+Google Workspace Security-> https://www.cloudskillsboost.google/course_templates/128
